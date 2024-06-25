@@ -28,7 +28,7 @@ SQL Server
 NAVIGATION:
 
 Clone the Repo 
-git clone https://github.com/dejidee0/User-Management-Profile.git
+git clone https://github.com/Bentley-Enuvi/UserProductApp/tree/master
 
  Run 'dotnet restore' to restore dependencies
 
